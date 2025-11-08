@@ -20,9 +20,9 @@
     "wrangler": "^2.6.2"
   },
   "dependencies": {
-    "JSZip": "^3.10.1"
+    "JSZip": "^3.10.1",
   }
   "devDependencies": {
-    "@types/jszip": "^3.4.1"
+    "@types/jszip": "^3.4.1",
   }
 }

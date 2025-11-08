@@ -23,7 +23,4 @@
     "JSZip": "^3.10.1"
   }
 }
-  "devDependencies": {
-    "@types/JSZip": "^3.4.1" 
-  }
-}
+  
